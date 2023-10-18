@@ -1,10 +1,5 @@
 # interactive_greeting.py
 name = input("What's your name? ")
-print(f"Hello, {name}!")
+print(f"Hello, {name}, and welcome to todays course!")
 
-age = int(input("How old are you? "))
-if age < 18:
-    print("You are a minor.")
-else:
-    print("You are an adult.")
 
