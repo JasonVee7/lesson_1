@@ -1,5 +1,5 @@
 # interactive_greeting.py
 name = input("What's your name? ")
-print(f"Hello, {name}, and welcome to todays course!")
+print(f"Hello {name}, welcome to todays course!")
 
 
