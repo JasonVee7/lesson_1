@@ -34,4 +34,4 @@ if not mediapipe_installed:
 
 # Continue with your code after checking for mediapipe
 if mediapipe_installed:
-    print('test')
+    print('mediapipe is installed!')
